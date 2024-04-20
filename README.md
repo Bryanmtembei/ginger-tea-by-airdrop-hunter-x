@@ -1,5 +1,5 @@
 # ginger-tea-by-airdrop-hunter-x
-# main.py
+# main.pypi
 
 def brew_tea(tea_type):
     """Brews a cup of tea based on the specified type."""
